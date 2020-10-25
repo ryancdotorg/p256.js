@@ -1,0 +1,6 @@
+*.swp
+p256.js
+*.map
+*.min.js
+*.js.br
+*.js.gz
